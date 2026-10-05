@@ -1,9 +1,9 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'gloriaa0392@gmail.com',
 
   socialMedia: [
     {
-      name: 'GitHub',
+      name: 'Li Xiao',
       url: 'https://github.com/bchiang7',
     },
     {
